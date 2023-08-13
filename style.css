@@ -42,47 +42,7 @@ body {
   z-index: 999;
 }
 
-
-
-/* 
-.cursor {
-  position: fixed;
-  left: 0;
-  top: 0;
-  pointer-events: none;
-}
-.cursor--small {
-  width: 5px;
-  height: 5px;
-  left: -2.5px;
-  top: -2.5px;
-  border-radius: 50%;
-  z-index: 11000;
-  background: #605dba;
-}
-.cursor--canvas {
-  width: 100vw;
-  height: 100vh;
-  z-index: 12000;
-} */
-
-
 /*-------------------------------NAVIGATION---START-------------------------*/
-
-/* .logo_rotate {
-  animation: logorotate 5s linear infinite;
-  transform-origin: center;
-  transform-box: fill-box;
-}
-
-@keyframes logorotate {
-  0% {
-    transform: translate(-50%,-50%) rotate(0deg);
-  }
-  100% {
-    transform: translate(-50%,-50%) rotate(360deg);
-  }
-} */
 
 .navbar-nav{
   font-size: 1.2rem;
@@ -220,27 +180,6 @@ body {
   
 }
 }
-
-/* .custom-shape-divider-bottom-1688899336 {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-  line-height: 0;
-  transform: rotate(180deg);
-}
-
-.custom-shape-divider-bottom-1688899336 svg {
-  position: relative;
-  display: block;
-  width: calc(100% + 1.3px);
-  height: 80px;
-}
-
-.custom-shape-divider-bottom-1688899336 .shape-fill {
-  fill: #5D6297;
-} */
 
 
 .custom-shape-divider-bottom-1688901088 {
