@@ -1,5 +1,14 @@
 a,h1,h2,h3,h4,h5,h6,p,span,ul,li{font-family:  Calibri;}
 
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #605dba;
+  border-radius: 50px;
+}
+
 body {
     margin: 0;
     padding: 0;
